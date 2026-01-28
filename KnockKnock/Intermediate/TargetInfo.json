@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "KnockKnock",
+			"Path": "..\\Source\\KnockKnock.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "KnockKnockEditor",
+			"Path": "..\\Source\\KnockKnockEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
