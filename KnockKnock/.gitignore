@@ -46,6 +46,10 @@ SourceArt/**/*.png
 SourceArt/**/*.tga
 
 # Binary Files
+!Binaries//KnockKnockEditor.target
+!Binaries//UnrealEditor.modules
+!Binaries//UnrealEditor-Shopping.dll
+!Binaries/*/KnockKnock-Win64-Shipping.exe
 Binaries/*
 Plugins/**/Binaries/*
 
